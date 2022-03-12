@@ -15,9 +15,9 @@
 ---
 
 ### Do you want to know me a bit more?
-|Randy Pausch|
-|---|
 |The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something|
+|---|
+|Randy Pausch|
 
 Margarita Bugueño start her studies in 2013 pursuing a major in Informatics Engineering at Federico Santa Mar\'ia Technical University (USM), one of the premier institutions in Chile. She found a deep enjoyment in learning programming and data analysis, excelling in courses related to computer science such as Machine Learning, Artificial Neural Networks, and Pattern Recognition. This prompted her to work as a teaching assistant in such subjects. Later, in 2017 and 2018, she joined *YoC+*, a school student program of teaching programming in C++ language to college students, which motivate the application as an associated researcher at Chilean Virtual Observatory (ChiVO) carried out by USM with the collaboration of the University of Chile and Huawei company.
 Her Master's studies at USM involve a thesis on text generation (as a data augmentation technique) for unbalanced text classification problems using state-of-the-art modules, Transformer and Self-Attention. In turn, the master's led her to work as a lecturer in the Informatics Department at USM and as an assistant researcher in the Millennium Institute for Foundational Research on Data (IMFD) in the Explainable Artificial Intelligence project facing several problems of interests such as fake news detection, harassment detection, analysis of controversy and others. 

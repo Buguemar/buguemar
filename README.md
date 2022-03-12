@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Margarita Bugueño  
 ```PhD student in the Research School "Data Science and Engineering" at Hasso Plattner Institut (HPI, Germany) under the  Artificial Intelligence and Intelligent Systems  Research Group```
 ---
-> MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)```
+> MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)
 >> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
 
 #### Links 

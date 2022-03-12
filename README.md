@@ -1,8 +1,9 @@
 ## Hi there 👋, I am Margarita Bugueño  
-```PhD student in the Research School "Data Science and Engineering" at Hasso Plattner Institut (HPI, Germany) under the  Artificial Intelligence and Intelligent Systems  Research Group```
 ---
+```PhD student in the Research School "Data Science and Engineering" at Hasso Plattner Institut (HPI, Germany) under the  Artificial Intelligence and Intelligent Systems  Research Group```
 > MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)
 >> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
+---
 
 #### Links 
 
@@ -28,11 +29,11 @@ Her Master's studies at USM involve a thesis on text generation (as a data augme
 Here I share the different areas where I had working on:
 
 * Deep Learning: I explore different applications of Deep Learning models in the help of society. Astroinformatics was one of them under the supervision of professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php).
-* > Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
+> Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
 > Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
 
 * Natural Language Processing: I explore this topic during my Master thesis under the supervision of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/). You can find my different contributions to the scientific community here:  
-> Journal paper: [IDA 20'] (http://dx.doi.org/10.3233/IDA-200007)
+> Journal paper: [IDA 20'] (http://dx.doi.org/10.3233/IDA-200007)  
 > Conference papers:[CIARP 19'](http://dx.doi.org/10.1007/978-3-030-33904-3_5)
 
 * Social Media: I explore this topic in the Millennium Institute for Foundational Research on Data (IMFD) with the collaboration of professor Marcelo Mendoza and [Alvaro Soto](https://www.ing.uc.cl/academicos-e-investigadores/alvaro-soto-arriaza/). You can find my different contributions to the scientific community here:  

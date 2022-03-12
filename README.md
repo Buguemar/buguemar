@@ -24,18 +24,16 @@ Margarita Bugueño start her studies in 2013 pursuing a major in Informatics Eng
 Her Master's studies at USM involve a thesis on text generation (as a data augmentation technique) for unbalanced text classification problems using state-of-the-art modules, Transformer and Self-Attention. In turn, the master's led her to work as a lecturer in the Informatics Department at USM and as an assistant researcher in the Millennium Institute for Foundational Research on Data (IMFD) in the Explainable Artificial Intelligence project facing several problems of interests such as fake news detection, harassment detection, analysis of controversy and others. 
 
 
-##### More interested in my profile?
-
-Here I share the different areas where I had working on:
-
-* Deep Learning: I explore different applications of Deep Learning models in the help of society. Astroinformatics was one of them under the supervision of professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php).
-> Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
-> Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
+##### More interested in my profile? Here I share the different areas where I had working on:
 
 * Natural Language Processing: I explore this topic during my Master thesis under the supervision of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/). You can find my different contributions to the scientific community here:  
-> Journal paper: [IDA 20'] (http://dx.doi.org/10.3233/IDA-200007)  
+> Journal paper: [IDA 20'](http://dx.doi.org/10.3233/IDA-200007)  
 > Conference papers:[CIARP 19'](http://dx.doi.org/10.1007/978-3-030-33904-3_5)
 
 * Social Media: I explore this topic in the Millennium Institute for Foundational Research on Data (IMFD) with the collaboration of professor Marcelo Mendoza and [Alvaro Soto](https://www.ing.uc.cl/academicos-e-investigadores/alvaro-soto-arriaza/). You can find my different contributions to the scientific community here:  
 > Conference papers: [HCII 19'](https://www.springer.com/gp/book/9783030219017), [ECML-PKDD 19'](http://dx.doi.org/10.1007/978-3-030-43887-6_23)
 
+
+* Deep Learning: I explore different applications of Deep Learning models in the help of society. Astroinformatics was one of them under the supervision of professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php).
+> Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
+> Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
